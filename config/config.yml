@@ -1,0 +1,8 @@
+service_port: 9116
+scrape_frequency: 3600
+host_to_check: your_domain_host.is
+ports_tocheck:
+  - 25
+  - 80
+  - 443
+  - 22
